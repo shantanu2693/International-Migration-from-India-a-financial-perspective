@@ -96,10 +96,28 @@ Again, UAE tops the list here. It holds the most number of Indian migrants and t
 
 ## Conclusions:
 
-![15](https://github.com/shantanu2693/International-Migration-from-India-a-financial-perspective/assets/148590969/054edfdf-d009-42ab-9cbb-077b7ac47898)
-
 Following Conclusions can be derived from the analysis:
 
-* 
+* The Gulf region and North America are regions where there is scope for diaspora engagement and outreach activities to be increased. UAE, USA and Saudi Arabia are the prime candidates for this initiative. This exercise can be performed using various means such as:
+  
+  1. Opening of more Consulates, if possible, to render end to end Consular services to the diaspora
+  
+  2. Increasing community outreach via events and selling the brand India across various verticals - Tourism, Trade, Education, Logistics etc.
+  
+  3. Diaspora welfare measures using Diplomatic relations with host countries
+
+* As already observed, Pakistan displayed the highest "Net Loss" across all countries in the world. This observation holds true given the tumultous history of India-Pakistan relations. However, the financial angle of this observation is a stark reminder that there is a lot of scope for improvement.
+
+* The "Net Loss" as a heatmap across all countries of the world along with important quantifiers, is as follows:
+  
+![16](https://github.com/shantanu2693/International-Migration-from-India-a-financial-perspective/assets/148590969/812debcb-22fd-467c-a315-42bb4bbdf3c2)
+
+* Taking insights from the map above, it is commendable that India received $89.38 billions of USD in 2021 sent by 18.1 million Indian migrants across the world. More scope lies in the fact that in countries like USA, Canada and a few Gulf countries, Indian migrants become citizens with time yet still send remittances back home because of a myriad of reasons - Finances for parents, relatives, investments into real estate, maintenance of ancestral real estate etc. Striking a chord with these former Indian citizens is crucial and relaxation in laws governing financial powers to Overseas citizens of India (OCI cardholders) need to be revised and modernized. 
 
 ## Caveats:
+
+* **Difference in working population and dependants:** The migrant stock includes people of working age along with dependants (Non-working spouse, seniors and children). However, it has been assumed that every one of those migrants would have contributed to India's GDP had they not migrated in the first place.
+
+* **Reporting issues:** Certain countries ban outward remittances flows because of political factors. Therefore, zero values have been inserted against remittances from such countries in the analysis above.
+
+* **Equal contribution to added GDP in zero migration case**: The GDP per capita (PPP adjusted) is used to determine this factor. However, it is strongly possible that not all migrants would have earned in the same income category in their host country or not all of them would have even been working in the first place. This is a huge assumption. Example - A migrant moving to USA for higher education after completing bacherlors in India vs. A casual labourer going to Kuwait to work on an oil rig.
